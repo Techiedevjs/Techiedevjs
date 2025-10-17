@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Israel</h1>
-<h3 align="center">A full-time developer💻and student📚with experience in Web Development. I have been working remotely since 2020. I am excited to continue expanding my skills and knowledge in the field.🚀</h3>
+<h3 align="center">A full-time developer💻 with experience in Web Development. I have been working remotely since 2020. I am excited to continue expanding my skills and knowledge in the field.🚀</h3>
 
-- 🧬 I’m currently working on [H.E.L.I.X](https://helixmetaverse.com/#main)
+- 🧬 I’m currently working on different amazing projects
 
 - 🌱 I’m currently learning **Machine Learning**
 
